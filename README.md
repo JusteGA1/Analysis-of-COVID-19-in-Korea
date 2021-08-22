@@ -12,6 +12,8 @@ Given information included details of cases, patients and policies applied by So
 
 Main focus is on infection sources in order to suggest possible actions for own country.  
 
+For full map experience please use http://nbviewer.org/ 
+
 
 ## Technologies
 * Python - version 3.8
